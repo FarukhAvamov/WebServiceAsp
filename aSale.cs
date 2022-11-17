@@ -7,7 +7,7 @@ using System.Web;
 
 namespace WebService
 {
-    class aSale
+    public class aSale
     {
         //SaleDate, SumKZT, SumUSD
         public DateTime SaleDate { get; set; }
